@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/v2video",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\V2Video\\Providers\\V2VideoServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\V2Video\\": ""
+        }
+    }
+}

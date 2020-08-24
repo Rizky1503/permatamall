@@ -1,0 +1,14 @@
+{
+    "name": "V2Video",
+    "alias": "v2video",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\V2Video\\Providers\\V2VideoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
